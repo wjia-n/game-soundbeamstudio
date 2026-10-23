@@ -1,7 +1,7 @@
 name: soundbeamstudio
 description: "Sound Beam Studio - Shoot notes to play melodies"
 publish_to: 'none'
-version: 1.0.0+3
+version: 1.0.0+4
 environment:
   sdk: ^3.13.5
 
